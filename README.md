@@ -13,10 +13,10 @@ Steps:
 - - returning a value
 - - imports
 - flow control
--- `if-then-else` (mention it's different from the two other uses of `if` that we've seen)
--- `for`
--- `while`
--- `try`
+- - `if-then-else` (mention it's different from the two other uses of `if` that we've seen)
+- - `for`
+- - `while`
+- - `try`
 - classes
 
 All text originally written in English but one of my Albanian friends
