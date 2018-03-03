@@ -3,12 +3,12 @@ An introduction to Python with an emphasis on Functional Programming.
 
 Steps:
 
-- expressions, numbers **TODO: add ternary operator**
+- expressions, numbers
 - lists **TODO: mention that `if` here is a different use of `if` from the ternary operator**
-- dictionaries **this is how far I've got**
 - tuples (because we'll need them for multiple-value-returns, and as dictionary keys)
+- dictionaries
 - defining functions
-- - parameters / arguments (previously described as inputs)
+- - parameters / arguments (previously described as inputs) **this is how far I've got**    *shell*:/tmp/$     return difference * difference
 - - assigning to variables
 - - returning a value
 - - imports
